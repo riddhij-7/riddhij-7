@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riddhi</h1>
-<h3 align="center">CSE Undergrad |AI & Web Development Enthusiast|Aspiring Data Analyst| </h3>
+<h3 align="center">CSE Undergrad |AI & Web Development Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riddhij-7&label=Profile%20views&color=0e75b6&style=flat" alt="riddhij-7" />
@@ -9,8 +9,8 @@
 
 ### 🌱 About Me
 - 🎓 I'm currently pursuing my Bachelor's in **Computer Science & Engineering**  
-- 🧠 I'm passionate about **AI**, **Data Analytics** and building meaningful tech solutions  
-- 📈 Exploring tools like **Python, SQL, Excel, Power BI**, and **Machine Learning**  
+- 🧠 I'm passionate about **AI**, SOFTWARE DEVELOPMENT and building meaningful tech solutions  
+- 📈 Exploring tools like **Python, SQL, AI, and **Machine Learning**  
 - 💡 I also enjoy designing websites using **Webflow, HTML/CSS, JavaScript**  
 - 🚀 Learning SEO to enhance digital visibility for projects and profiles  
 
