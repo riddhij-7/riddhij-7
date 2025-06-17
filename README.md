@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riddhi</h1>
-<h3 align="center">CSE Undergrad |AI & Web Development Enthusiast </h3>
+<h3 align="center">CSE Undergrad | AI & Web Development Enthusiast |</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riddhij-7&label=Profile%20views&color=0e75b6&style=flat" alt="riddhij-7" />
