@@ -9,8 +9,8 @@
 
 ### 🌱 About Me
 - 🎓 I'm currently pursuing my Bachelor's in **Computer Science & Engineering**  
-- 🧠 I'm passionate about **AI**, SOFTWARE DEVELOPMENT and building meaningful tech solutions  
-- 📈 Exploring tools like **Python, SQL, AI, and **Machine Learning**  
+- 🧠 I'm passionate about **AI**,**SOFTWARE DEVELOPMENT** and building meaningful tech solutions  
+- 📈 Exploring tools like **Python**, **SQL**, **AI**, and **Machine Learning**  
 - 💡 I also enjoy designing websites using **Webflow, HTML/CSS, JavaScript**  
 - 🚀 Learning SEO to enhance digital visibility for projects and profiles  
 
